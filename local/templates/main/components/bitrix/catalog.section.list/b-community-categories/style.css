@@ -1,0 +1,58 @@
+.ico-cat {
+	position: relative;
+	background: url("/local/templates/main/img/categories_icons.png") 100% 0 no-repeat;
+	text-indent: 100%;
+	overflow: hidden;
+	vertical-align: middle;
+	display: inline-block;
+}
+.b-community-categories__icon {
+	border: none !important;
+	width: 78px !important;
+	height: 78px !important;
+}
+.ico-cat.i_marketing-blue {
+	background-position: 0px -624px;
+	width: 78px;
+	height: 78px;
+}
+.ico-cat.i_standart-blue {
+	background-position: 0px 0px;
+	width: 78px;
+	height: 78px;
+}
+.ico-cat.i_tech-blue {
+	background-position: 0px -468px;
+	width: 78px;
+	height: 78px;
+}
+.ico-cat.i_pipe-blue {
+	background-position: 0px -78px;
+	width: 78px;
+	height: 78px;
+}
+.ico-cat.i_tin-blue {
+	background-position: 0px -234px;
+	width: 78px;
+	height: 78px;
+}
+.ico-cat.i_economy-blue {
+	background-position: 0px -546px;
+	width: 78px;
+	height: 78px;
+}
+.ico-cat.i_detail-blue {
+	background-position: 0px -156px;
+	width: 78px;
+	height: 78px;
+}
+.ico-cat.i_kip-blue {
+	background-position: 0px -312px;
+	width: 78px;
+	height: 78px;
+}
+.ico-cat.i_system-blue {
+	background-position: 0px -390px;
+	width: 78px;
+	height: 78px;
+}

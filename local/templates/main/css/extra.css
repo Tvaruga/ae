@@ -1,0 +1,26 @@
+.c-list.t-1 .c-list__day{
+    background-color: rgba(51,102,102,0.5);
+    padding-top: 9.5px;
+    padding-bottom: 9.5px;
+}
+.b-comments__list{
+    border: none;
+    margin-top: 1px;
+}
+.b-comments__item{
+    padding: 0;
+    border-top: 1px solid #a8b0ba;
+    border-bottom: 1px solid #a8b0ba;
+    margin-top: -1px;
+}
+.b-comments__item .blog-comment-cont-white{
+    padding: 30px 0;
+}
+.b-community-categories__header{
+    display: block;
+}
+.inlineblock{
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+}

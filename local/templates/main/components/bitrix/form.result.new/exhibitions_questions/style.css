@@ -1,0 +1,28 @@
+input {
+	display: block;
+	width: 100%;
+    padding: 10px 13px;
+    background: #fff;
+    -webkit-box-sizing: border-box;
+    position: relative;
+    line-height: 1.2;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+}
+.button {
+    position: relative;
+    padding: 11px 35px;
+    background: #295292;
+    font-weight: 500;
+    color: #fff;
+    line-height: 1.2;
+    display: inline-block;
+    cursor: pointer;
+    border: 0;
+    font-size: 13px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    text-align: center;
+    white-space: nowrap;
+}

@@ -1,0 +1,3 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
+if (0 < $arResult['SECTIONS_COUNT'] && \Bitrix\Main\Loader::includeModule('iblock') && $arResult['IBLOCK'] = CIBlock::GetByID($arParams['IBLOCK_ID'])->Fetch())
+    $arResult['IBLOCK']['LIST_PAGE_URL'] = str_replace('//','/',CComponentEngine::MakePathFromTemplate($arResult['IBLOCK']['LIST_PAGE_URL'],array('IBLOCK_CODE'=>$arResult['IBLOCK']['CODE'])));

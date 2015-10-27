@@ -1,0 +1,1 @@
+<div class="b-page-head__info m_t10"><a href="/community/terms/" class="link"> Условия использования</a></div><br>

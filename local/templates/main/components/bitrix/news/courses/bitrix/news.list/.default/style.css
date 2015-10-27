@@ -1,0 +1,21 @@
+
+
+.c-list__item .title-container{
+	position: relative;
+}
+
+.c-list__item .c-list__item.c-list__item_with-border{
+	display:none;
+	position: absolute;
+	top:0px;
+	left: 0px;
+	background: #fff;
+	z-index: 50;
+}
+
+.title-container:hover  .c-list__item.c-list__item_with-border{
+	display:block;
+}
+.image-wrapper{
+	text-align:center;
+}

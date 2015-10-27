@@ -1,0 +1,15 @@
+.l-wrapper{
+	width: 790pt !important;
+}
+.b-exhibition{
+	display:none;
+}
+.b-exhibition.m_t25 .image-wrapper{
+	text-align: center;
+}
+.b-exhibition.companies{
+	padding-top:15px;
+}
+#form-innovetion{
+	display:none;
+}

@@ -1,0 +1,27 @@
+<?
+$MESS['HOTEL_GEO_PLACE_LABEL'] = 'Географическое место расположение отеля';
+$MESS['HOTEL_HOTELS_LABEL'] = 'Отели';
+$MESS['HOTEL_SITE_LABEL'] = 'Сайт отеля';
+$MESS['HOTEL_PHONE_LABEL'] = 'Телефон';
+$MESS['HOTEL_BUILDING_DATE_LABEL'] = 'Дата постройки';
+$MESS['HOTEL_RENOVATION_DATE_LABEL'] = 'Дата реконструкции';
+$MESS['HOTEL_SQUARE_LABEL'] = 'Площадь';
+$MESS['HOTEL_SERVICE_LABEL'] = 'Услуги при отеле';
+$MESS['HOTEL_REVIEWS_LABEL'] = 'Отзывы об ';
+$MESS['HOTEL_SHOW_MORE_LABEL'] = 'Показать еще';
+$MESS['HOTEL_HIDE_LABEL'] = 'Скрыть';
+$MESS['HOTEL_FROM_LABEL'] = 'из';
+$MESS['HOTEL_TOUR_DATE_LABEL'] = 'Турист, был(а) в отеле';
+$MESS['HOTEL_REVIEW_ADVANTAGES_LABEL'] = 'Достоинства';
+$MESS['HOTEL_REVIEW_DISADVANTAGES_LABEL'] = 'Недостатки';
+$MESS['HOTEL_TOUR_SEARCH_LABEL'] = 'Поиск тура в этот отель';
+$MESS['HOTEL_T0_SFORM_FROM_LABEL'] = 'Откуда';
+$MESS['HOTEL_TS_FORM_DATE_FROM_LABEL'] = 'Дата вылета с';
+$MESS['HOTEL_TS_FORM_DATE_TO_LABEL'] = 'Дата вылета по';
+$MESS['HOTEL_TS_FORM_MEAL_LABEL'] = 'Тип питания';
+$MESS['HOTEL_TS_FORM_ADULTS_LABEL'] = 'Взрослых';
+$MESS['HOTEL_TS_FORM_KIDS_LABEL'] = 'Детей';
+$MESS['HOTEL_TS_FORM_EMPTY_LABEL'] = 'Любой';
+$MESS['HOTEL_TS_FORM_SELECTED_LABEL'] = 'Любой';
+$MESS['HOTEL_TS_FORM_KIDS_AGE_LABEL'] = 'Возраст';
+$MESS['HOTEL_TS_FORM_KIDS_AGE_DESC'] = 'от 0 да 17 лет';

@@ -1,0 +1,4 @@
+<?php
+$MESS['ASD_SUBSCRIBEQUICK_PODPISATQSA'] = 'OK';
+$MESS['ASD_SUBSCRIBEQUICK_EMAIL_PLACEHOLDER'] = 'Введите вашу почту';
+$MESS['ASD_SUBSCRIBEQUICK_TITLE'] = 'подписаться на наши новости';
